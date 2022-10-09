@@ -6,3 +6,5 @@ git comm
 
 Here we make some changes and push it to the ticcekt branch...
  git checkout is the word
+
+ git havefun!! 
